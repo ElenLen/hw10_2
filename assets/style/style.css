@@ -1,0 +1,21 @@
+#cat1 {
+  width: 400px;
+  /* height: 200px; */
+}
+
+.h1 {
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(185, 206, 246);
+}
+
+.main__img {
+  text-align: center;
+}
+
+.main__button {
+  text-align: center;
+  margin-bottom: 8px;
+}
